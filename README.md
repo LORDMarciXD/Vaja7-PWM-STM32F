@@ -1,1 +1,7 @@
 # Vaja7-PWM-STM32F
+
+# ODGOVORI
+
+b) PA8, TIM1_CH1
+d) 16
+e) 10 kHz
